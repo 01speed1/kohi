@@ -1,0 +1,35 @@
+# Build files
+/build/
+/bin/
+/obj/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Compiled object files
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.VC.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Kohi specific
+assets/generated/
